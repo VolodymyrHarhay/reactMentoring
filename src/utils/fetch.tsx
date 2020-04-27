@@ -12,6 +12,7 @@ export default async (payload: any, options: Options) => {
     url,
     data: payload
   });
+  // test
 
   return result;
 }
